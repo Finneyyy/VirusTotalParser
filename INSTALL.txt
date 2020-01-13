@@ -1,0 +1,13 @@
+For Windows:
+(Pip is pre-installed with python 2.7 and 3.7.x. 
+You can check this for yourself by browsing to:
+    C:\Users\<username>\AppData\Local\Programs\Python\Python37-32\Scripts 
+and listing the contents of the directory.)
+
+ 
+Save this to your desktop, then run it with your preferred method: https://bootstrap.pypa.io/get-pip.py
+(It's also included with the program)
+
+now you can use pip to your heart's content
+
+usage: pip install <package>
