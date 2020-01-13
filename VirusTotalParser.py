@@ -12,9 +12,9 @@
     This is the 0.1 of the tool.
 
     There were plenty of problems getting this tool written. On the 8th of Jan, I had a blue screen
-    on the laptop, and soon realised that I lost a completed version of this tool and report. 
-    So the scramble to get the tool and report rewritten began. See, I started on one drive, but had my working
-    project on the ssd. Weird way of doing things? Perhaps, but that's the way I work, and it's
+    on the laptop, and soon realised that I lost a relatively complete version of this tool and report that came 
+    with it. So the scramble to get the tool and report rewritten began. See, I started on one drive, but had 
+    my working project on the ssd. Weird way of doing things? Perhaps, but that's the way I work, and it's
     a good system for the most part.
 
     Notes for me: Because of the way requests() works, parameters has to be called params,
